@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1> Hi👋, Nice to see you here.!!</h1>
 
 <p align="left">
@@ -34,3 +35,21 @@ Hi, I'm Aryan, an ***Enthusiast Programmer and Data Analyst*** 👨🏻‍💻 f
 <a href="https://www.hackerrank.com/profile/aryan028bishnoi" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/hackerrank.png?raw=true"></a>&emsp;&emsp;
 <a href="https://atcoder.jp/users/ary_an" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/atcoder.png?raw=true"></a>&emsp;&emsp;
 
+=======
+## Hi there 👋
+
+<!--
+**ary-a-n/ary-a-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 6a315f03e49e4979ec17193b753881fa78050b16
