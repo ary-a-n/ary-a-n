@@ -11,9 +11,9 @@
 Hi, I'm Aryan, an **Enthusiast Programmer and Data Analyst** 👨🏻‍💻 from India.
 
 <br>
- &emsp;&emsp; ○&emsp;Proficient in **Data Structures and Algorithms** with a strong skill set in **Competitive Programming** 💻.<br>
- &emsp;&emsp; ○&emsp;Achieved an **impressive worldwide ranking across diverse global online coding competitions**.🙃 !!<br>
- &emsp;&emsp; ○&emsp;Beside's this, **I love playing Basketball 🏀.**<br>
+ &emsp;&emsp; ○&emsp;Proficient in Data Structures and Algorithms with a strong skill set in Competitive Programming 💻.<br>
+ &emsp;&emsp; ○&emsp;Achieved an impressive worldwide ranking across diverse global online coding competitions**.🙃 !!<br>
+ &emsp;&emsp; ○&emsp;Beside's this, I love playing Basketball 🏀.<br>
 
 <hr>
 
